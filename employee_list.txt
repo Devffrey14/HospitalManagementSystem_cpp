@@ -1,0 +1,14 @@
+
+				*************************************
+
+				Employee Name : Akua Abrafi
+
+				Employee Age : 22
+
+				Employee Gender : Female
+
+				Employee Role : Nurse
+
+				Employee Salary : 10000
+
+				*************************************

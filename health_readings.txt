@@ -1,0 +1,16 @@
+
+				*************************************
+
+				Patient Name : Jason
+
+				Patient Age : 18
+
+				Patient Gender : Male
+
+				Blood Pressure : 120/80
+
+				Weight (Kg) : 75
+
+				Temperature (Celcius) : 37.7
+
+				*************************************

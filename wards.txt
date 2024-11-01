@@ -1,0 +1,11 @@
+
+			*************************************
+
+				SACRED HEART HOSPITAL
+
+			**************************************
+
+			Ward Name: Female Ward
+				Capacity: 100 beds
+
+			Occupied Beds: 0
